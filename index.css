@@ -1,0 +1,56 @@
+#back1 a{
+    font-size: 30px;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	text-align: center;
+}
+#back1{
+    background-image: url("image/back1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: auto;
+}
+#form1{
+    margin-left: 700px;
+    border-radius: 15px;
+    height: 30px;
+    border-color: red;
+}
+#form2{
+    
+    border-radius: 15px;
+    height: 30px;
+    border-color: red;
+    margin-top: 0px;
+}
+#b a{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.container fieldset{
+    border-color: black;
+    width: 500px;
+    background-color: teal;
+    margin-top: 25px;
+    
+}
+.container fieldset form table{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+    
+
+}
+.container fieldset form table tr td input{
+    width: 100%;
+    height: 25px;
+    font-size: 20px;
+}
+#middle{
+    background-image: url(image/back2.jpg);
+    height: auto;
+    margin-top: -24px;
+}
